@@ -4,8 +4,9 @@ import { animals } from './data';
 import Main from './Main/Main';
 
 function App() {
+  // console.log(animals);
   return (
-    <Main animals= {animals} />
+    <Main animals={animals} />
   );
 }
 
