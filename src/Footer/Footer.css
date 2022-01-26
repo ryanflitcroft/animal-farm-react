@@ -1,6 +1,11 @@
 footer {
   width: 100%;
-  background: red;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+}
+
+footer span {
+  font-size: 2em;
+  margin: 0 3em;
 }
