@@ -2,7 +2,7 @@ span {
   display: block;
 }
 
-div {
+main div {
   width: 150px;
   position: absolute;
   display: flex;
