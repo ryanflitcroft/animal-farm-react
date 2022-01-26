@@ -1,5 +1,9 @@
 import './Footer.css';
 
 export default function Footer(props) {
-  return <span>{props.email}</span>;
+  return (
+    <footer>
+      <span>{props.email}</span>
+    </footer>
+  );
 }
